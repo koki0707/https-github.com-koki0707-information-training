@@ -1,1 +1,1 @@
-# https-github.com-koki0707-information-training
+information-training
